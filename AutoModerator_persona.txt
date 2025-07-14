@@ -1,0 +1,7 @@
+Reddit User Persona: u/AutoModerator
+Generated using a Hugging Face summarization model.
+
+Summary of Behavior:
+/r/UnsentLetters users may now lock their own comments by making a comment on their submission with the string '!lock' Submitters may do this at any point they wish, but the comments can not be unlocked later on, so lock your comments with care! You can read the [rules] here . If you notice anything strange going on in the subreddit, send the mods a message or report it .
+
+Note: This persona was inferred from Reddit posts/comments.

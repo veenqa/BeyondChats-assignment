@@ -1,0 +1,7 @@
+Reddit User Persona: u/Hungry-Move-6603
+Generated using a Hugging Face summarization model.
+
+Summary of Behavior:
+Comment in r/nagpur: I was caught without helmet and license (close to my home). Cops outright wanted to fine me, but a 'common guy' came in and discussed bribe on my behalf with cops . I gave him 200rs (back in 2011) and Cops let me go . He was not a common man. He was their agent and shield. If I or anyone recorded myself handing out money, it would be to a common . man, not cops directly .
+
+Note: This persona was inferred from Reddit posts/comments.
